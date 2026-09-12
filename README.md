@@ -58,6 +58,7 @@ Evolving the network instead of training it.
 - [PyTorch-NEAT](https://github.com/uber-research/PyTorch-NEAT) - Bridges NEAT genomes to PyTorch networks, including adaptive HyperNEAT.
 - [deep-neuroevolution](https://github.com/uber-research/deep-neuroevolution) - Uber AI's distributed GA and evolution strategies code showing that plain genetic algorithms can train deep networks for Atari.
 - [neataptic](https://github.com/wagenaartje/neataptic) - Neuroevolution in the browser with an architecture-free API. Unmaintained but still the easiest JS starting point.
+- [neat-from-scratch](https://github.com/MarcoZorn/neat-from-scratch) - NEAT implemented from nothing in dependency-free JavaScript, with a live browser demo, a running view of the leader's network, and tracks you draw yourself. Written to be read.
 - [cars](https://github.com/MarcoZorn/cars) - NEAT drives cars around procedurally generated tracks using only raycast distances. No hand-written driving logic. Python.
 - [Cephalopods](https://github.com/jobtalle/Cephalopods) - Evolved swimming squids. A good example of body and controller evolving together.
 
