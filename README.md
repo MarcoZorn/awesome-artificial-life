@@ -146,3 +146,7 @@ Where artificial life meets actual wet biology.
 
 Pull requests welcome. One rule: open it, run it if it runs, and write the line
 that tells a reader why it is worth their evening. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+[CC BY 4.0](LICENSE) © Marco Zorn. Free to reuse and adapt with credit and a link back to this list.
